@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+p  {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol {
+    color: red;
+}
+h4 {
+    color: gold;
+}
